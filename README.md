@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ziad Elgabri | Software Engineer & Integrator
+# 👋 Hi, I'm Ziad Mohamed Elgabri | Software Engineer & Integrator
 
 I am a **Software Engineer** and a student at **Limkokwing University of Creative Technology** in Sierra Leone—an institution renowned for its cutting-edge focus on technology and digital innovation. I am dedicated to building robust technical solutions that bridge the gap between powerful software architecture and smart infrastructure, specializing in **Python**, **SQL**, comprehensive **IT Infrastructure**, Advanced **Security/CCTV Systems**, and purposeful **UI/UX Design**.
 
