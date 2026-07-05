@@ -45,4 +45,4 @@ I spearhead the technology and systems sector at **Sarmady**, while leveraging d
 ### 🤝 Connect with Me
 
 * 📩 **Email:** zeadelgabry@gmail.com
-* 💼 **LinkedIn:** [رابط حسابك لينكد إن هنا]
+* 💼 **LinkedIn:** 
